@@ -1,6 +1,8 @@
 # Symfony4-LicenceDevWeb
 Installation de Symfony 4
-1) installer PHP 
+1) Votre environnement de déveleppoment 
+- EDI PHPStorm https://www.jetbrains.com/student/
+- Wamp Server http://www.wampserver.com/
 
 2) Installer composer (voir https://getcomposer.org/)
 ```
