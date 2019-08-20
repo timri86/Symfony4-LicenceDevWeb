@@ -13,3 +13,10 @@ php -r "unlink('composer-setup.php');"
 ```
 composer create-project symfony/website-skeleton myproject
 ```
+4) demarage du projet 
+Rendez vous dans le dossier de votre projet et lancez votre serveur local 
+```
+cd mon-super-projet
+php bin/console server:run
+```
+Votre projet est à présent disponible sur http://localhost:8000/
